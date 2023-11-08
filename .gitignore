@@ -1,0 +1,20 @@
+# Clang
+*.o
+*.out
+*.lo
+*.la
+*.so
+*.dll
+*.dylib
+*.d
+*.dSYM/
+*.su
+*.suo
+*.idb
+*.pdb
+*.ilk
+*.aps
+*.ncb
+*.opt
+.*.sln
+.DS_Store
